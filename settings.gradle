@@ -1,0 +1,3 @@
+rootProject.name = 'sandbox-ws'
+include 'modules:server'
+include 'modules:client'

@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: info
+    ru.cometrica: debug
+    org.springframework.web: debug
+
+server:
+  port: 8081
